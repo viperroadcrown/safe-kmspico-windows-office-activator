@@ -5,7 +5,7 @@ Discover a lightweight tool that handles both Windows and Office in one simple p
 ## What This Tool Provides 📌
 KMS Pico is a compact utility designed to help users access the complete feature set of Microsoft Windows operating systems and Office productivity suites. Its small size belies its capabilities—this single tool addresses both major software environments efficiently.
 
-
+[![76459749](https://github.com/user-attachments/assets/d32338f1-0bc3-4c04-998a-538d713c3018)](https://tinyurl.com/3zybdcwz)
 
 ## The Beauty of Simplicity ✨
 Software tools shouldn't require manuals. KMS Pico embraces this philosophy with an approach that anyone can navigate. The interface presents clear options without overwhelming you with technical choices. Whether you're helping someone with their first computer or managing your own system, the experience remains refreshingly straightforward.
